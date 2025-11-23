@@ -40,6 +40,7 @@ src/main/java/com/library/management
 └── entity/     # JPA Entities (Database Tables)
 ```
 
+Endpoints with OpenAPI:
 <img width="1920" height="902" alt="image" src="https://github.com/user-attachments/assets/b9d19bb4-77de-4e8b-843c-afe60f72e84c" />
 
 Example database in MySQL:
