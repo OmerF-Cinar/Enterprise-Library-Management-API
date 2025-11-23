@@ -38,3 +38,8 @@ src/main/java/com/library/management
 ├── service/    # Business Logic & Transaction Management
 ├── dao/        # Data Access Objects (EntityManager Implementation)
 └── entity/     # JPA Entities (Database Tables)
+
+<img width="1920" height="902" alt="image" src="https://github.com/user-attachments/assets/b9d19bb4-77de-4e8b-843c-afe60f72e84c" />
+
+Example database in MySQL:
+<img width="452" height="542" alt="image" src="https://github.com/user-attachments/assets/fe5c60fb-4f3a-4a59-a8d2-7e6392de2665" />
